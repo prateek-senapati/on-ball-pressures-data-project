@@ -13,7 +13,7 @@ Here's the problem statement:
 > * Documentation for the Tracking Data and Metadata files
 > * Full match video of the game
 
-You can find the project notebook [here](https://github.com/prateek-senapati/on-ball-pressures-data-project/blob/main/Nashville%20SC%20Technical%20Analytics%20Internship%20Data%20Project.ipynb). If the notebook or the images in the notebook aren't showing, try reloading the page or the notebook.
+You can find the project notebook [here](Nashville%20SC%20Technical%20Analytics%20Internship%20Data%20Project.ipynb). If the notebook or the images in the notebook aren't showing, try reloading the page or the notebook.
 
-You can read the project report [here]().
+You can read the project report [here](on_ball_pressures_report.pdf).
 
